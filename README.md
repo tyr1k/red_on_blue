@@ -2,7 +2,6 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>My GTK Application</title>
 </head>
 <body>
 	<h1>My GTK Application</h1>
